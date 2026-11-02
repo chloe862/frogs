@@ -1,12 +1,13 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     [Header("Animals")]
     public List<Animal> ownedAnimals = new List<Animal>();
     public Animal animalPrefab;
+    private Animal selectedAnimal;
 
     [Header("Frogs")]
     public AnimalData blueFrogData;
@@ -126,8 +127,6 @@ public class GameManager : MonoBehaviour
     }
     public void SelectAnimal(Animal animal)
     {
-        Animal selectedAnimal = animal;
-        menuContainer.SetActive(true);
 
         // Clicking same animal = deselect
         if (selectedAnimal == animal)
@@ -140,21 +139,42 @@ public class GameManager : MonoBehaviour
         // Select new animal
         selectedAnimal = animal;
         menuContainer.SetActive(true);
+        Debug.Log("Updated selected animal");
 
         UpdateAnimalPanel(animal);
     }
 
     private void UpdateAnimalPanel(Animal animal)
     {
-        // updat UI text
+        //menuName.text = animal.data.animalName;
+        //menuImage.image = animal.data.animalSprite;
+        //menuRarity.text = animal.data.rarity;
+        //menuProfit.text = animal.data.coinsPerSecond;
+        //menuSellPrice.text = animal.data.sellPrice;
+        menuContainer.transform.GetChild(0).GetComponent<TextMeshProUGUI>().text = animal.data.animalName;
+        menuContainer.transform.GetChild(1).GetComponent<Image>().sprite = animal.data.animalSprite;
+        menuContainer.transform.GetChild(2).GetComponent<TextMeshProUGUI>().text = $"{animal.data.rarity}";
+        menuContainer.transform.GetChild(3).GetComponent<TextMeshProUGUI>().text = $"Earning ${animal.data.coinsPerSecond} per day.";
+        menuContainer.transform.GetChild(4).GetComponent<TextMeshProUGUI>().text = $"Sells for ${animal.data.sellPrice}.";
+    }
 
+    public void SellSelectedAnimal()
+    {
+        Debug.Log("Sell button was pressed");
+        if (selectedAnimal == null)
+            return;
+
+        SellAnimal(selectedAnimal);
     }
 
     public void SellAnimal(Animal animal)
     {
+        Debug.Log("Attempting to sell animal");
         ownedAnimals.Remove(animal); // this might be a problem later
         totalCPD -= animal.data.coinsPerSecond;
         coinCount += animal.data.sellPrice;
+        selectedAnimal = null;
+        menuContainer.SetActive(false);
         Destroy(animal.gameObject);
     }
 }
