@@ -9,10 +9,18 @@ public class GameManager : MonoBehaviour
     [Header("Animals")]
     public List<Animal> ownedAnimals = new List<Animal>();
     public Animal animalPrefab;
+
+    [Header("Frogs")]
     public AnimalData blueFrogData;
     public AnimalData brownFrogData;
     public AnimalData greenFrogData;
     public AnimalData pinkFrogData;
+
+    [Header("Cows")]
+    public AnimalData whiteCowData;
+    public AnimalData brownCowData;
+    public AnimalData blackCowData;
+    public AnimalData spottedCowData;
 
     [Header("UI")]
     public TextMeshProUGUI coinCountText;
@@ -92,27 +100,56 @@ public class GameManager : MonoBehaviour
 
     public void BuyBird()
     {
-
+        Debug.Log("Bird Bought");
     }
 
     public void BuyCat()
     {
-
+        Debug.Log("Cat Bought");
     }
 
     public void BuyPig()
     {
-
+        Debug.Log("Pig Bought");
     }
 
     public void BuyCow()
     {
+        Debug.Log("Cow Bought");
+        float cost = 5f;
+        if (coinCount >= cost)
+        {
+            coinCount -= cost;
+            Vector2 spawnPosition = new Vector2(Random.Range(-8f, 9f), Random.Range(-4f, 5f));
+            Animal animal = Instantiate(animalPrefab, spawnPosition, Quaternion.identity);
 
+            UnityEngine.Random.InitState(System.DateTime.Now.Millisecond);
+            int rarityWeight = UnityEngine.Random.Range(0, 101);
+            Debug.Log(rarityWeight);
+            if (rarityWeight >= 95)
+            {
+                animal.Initialize(spottedCowData);
+            }
+            else if (rarityWeight >= 80)
+            {
+                animal.Initialize(blackCowData);
+            }
+            else if (rarityWeight >= 50)
+            {
+                animal.Initialize(brownCowData);
+            }
+            else
+            {
+                animal.Initialize(whiteCowData);
+            }
+            ownedAnimals.Add(animal);
+            totalCPS += animal.data.coinsPerSecond;
+        }
     }
 
     public void BuyAlpaca()
     {
-
+        Debug.Log("Alpaca Bought");
     }
 
 }

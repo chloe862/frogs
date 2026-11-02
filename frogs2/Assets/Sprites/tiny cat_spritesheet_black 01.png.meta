@@ -1,0 +1,3171 @@
+fileFormatVersion: 2
+guid: 03e613a1cb03b8349981765c2d5c924c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4328664738430599186
+    second: tiny cat_spritesheet_black 01_0
+  - first:
+      213: -684122289537521549
+    second: tiny cat_spritesheet_black 01_1
+  - first:
+      213: -2515788906098472381
+    second: tiny cat_spritesheet_black 01_2
+  - first:
+      213: 6474396746066139205
+    second: tiny cat_spritesheet_black 01_3
+  - first:
+      213: -1601680948803076915
+    second: tiny cat_spritesheet_black 01_4
+  - first:
+      213: -1765084036492776811
+    second: tiny cat_spritesheet_black 01_5
+  - first:
+      213: 5886095502521946357
+    second: tiny cat_spritesheet_black 01_6
+  - first:
+      213: 6838028825197112912
+    second: tiny cat_spritesheet_black 01_7
+  - first:
+      213: 9077945506661010008
+    second: tiny cat_spritesheet_black 01_8
+  - first:
+      213: 5901629553360166241
+    second: tiny cat_spritesheet_black 01_9
+  - first:
+      213: -4744100931724598008
+    second: tiny cat_spritesheet_black 01_10
+  - first:
+      213: -8212506646341040944
+    second: tiny cat_spritesheet_black 01_11
+  - first:
+      213: -2879157183076454526
+    second: tiny cat_spritesheet_black 01_12
+  - first:
+      213: -8013884077610027745
+    second: tiny cat_spritesheet_black 01_13
+  - first:
+      213: -966276429525305500
+    second: tiny cat_spritesheet_black 01_14
+  - first:
+      213: 5375267611652851793
+    second: tiny cat_spritesheet_black 01_15
+  - first:
+      213: 6442273384678596821
+    second: tiny cat_spritesheet_black 01_16
+  - first:
+      213: 1709714919007515138
+    second: tiny cat_spritesheet_black 01_17
+  - first:
+      213: -4896904542795427039
+    second: tiny cat_spritesheet_black 01_18
+  - first:
+      213: -4507862450395169742
+    second: tiny cat_spritesheet_black 01_19
+  - first:
+      213: -7816611026169122325
+    second: tiny cat_spritesheet_black 01_20
+  - first:
+      213: -6230028010307922903
+    second: tiny cat_spritesheet_black 01_21
+  - first:
+      213: -7702415202108809588
+    second: tiny cat_spritesheet_black 01_22
+  - first:
+      213: -5395907449401543667
+    second: tiny cat_spritesheet_black 01_23
+  - first:
+      213: -2641285147680281493
+    second: tiny cat_spritesheet_black 01_24
+  - first:
+      213: 8040944967864972896
+    second: tiny cat_spritesheet_black 01_25
+  - first:
+      213: -8551433773409207708
+    second: tiny cat_spritesheet_black 01_26
+  - first:
+      213: 3850445720346867254
+    second: tiny cat_spritesheet_black 01_27
+  - first:
+      213: 6643916055796959829
+    second: tiny cat_spritesheet_black 01_28
+  - first:
+      213: 2113616666384003398
+    second: tiny cat_spritesheet_black 01_29
+  - first:
+      213: -275856225618969223
+    second: tiny cat_spritesheet_black 01_30
+  - first:
+      213: 7124881165334646918
+    second: tiny cat_spritesheet_black 01_31
+  - first:
+      213: -1850212557778629972
+    second: tiny cat_spritesheet_black 01_32
+  - first:
+      213: 5352146580822756817
+    second: tiny cat_spritesheet_black 01_33
+  - first:
+      213: -6298785649728677305
+    second: tiny cat_spritesheet_black 01_34
+  - first:
+      213: 6177295868825793287
+    second: tiny cat_spritesheet_black 01_35
+  - first:
+      213: -5665164431676320914
+    second: tiny cat_spritesheet_black 01_36
+  - first:
+      213: -1992213931526796454
+    second: tiny cat_spritesheet_black 01_37
+  - first:
+      213: 501100422611739957
+    second: tiny cat_spritesheet_black 01_38
+  - first:
+      213: 5751417884672223096
+    second: tiny cat_spritesheet_black 01_39
+  - first:
+      213: -4227250014309036462
+    second: tiny cat_spritesheet_black 01_40
+  - first:
+      213: -6074329950921137844
+    second: tiny cat_spritesheet_black 01_41
+  - first:
+      213: 7211824394654457658
+    second: tiny cat_spritesheet_black 01_42
+  - first:
+      213: 2098273585914786134
+    second: tiny cat_spritesheet_black 01_43
+  - first:
+      213: -1872871354427455342
+    second: tiny cat_spritesheet_black 01_44
+  - first:
+      213: -4122329773956173511
+    second: tiny cat_spritesheet_black 01_45
+  - first:
+      213: 2903634462898540304
+    second: tiny cat_spritesheet_black 01_46
+  - first:
+      213: -7909668054817022271
+    second: tiny cat_spritesheet_black 01_47
+  - first:
+      213: -501642491750507451
+    second: tiny cat_spritesheet_black 01_48
+  - first:
+      213: -3924489354203021089
+    second: tiny cat_spritesheet_black 01_49
+  - first:
+      213: 5706193711789634858
+    second: tiny cat_spritesheet_black 01_50
+  - first:
+      213: -6009901378519529088
+    second: tiny cat_spritesheet_black 01_51
+  - first:
+      213: 3163616502307659353
+    second: tiny cat_spritesheet_black 01_52
+  - first:
+      213: 778360842296332343
+    second: tiny cat_spritesheet_black 01_53
+  - first:
+      213: -1974745293854013681
+    second: tiny cat_spritesheet_black 01_54
+  - first:
+      213: 6424964135289680992
+    second: tiny cat_spritesheet_black 01_55
+  - first:
+      213: 987314350094724867
+    second: tiny cat_spritesheet_black 01_56
+  - first:
+      213: -4160148612074768416
+    second: tiny cat_spritesheet_black 01_57
+  - first:
+      213: -2617908765406856571
+    second: tiny cat_spritesheet_black 01_58
+  - first:
+      213: 6081760586065850745
+    second: tiny cat_spritesheet_black 01_59
+  - first:
+      213: 7447841957774209467
+    second: tiny cat_spritesheet_black 01_60
+  - first:
+      213: -2596605114297966924
+    second: tiny cat_spritesheet_black 01_61
+  - first:
+      213: 7333963914180424704
+    second: tiny cat_spritesheet_black 01_62
+  - first:
+      213: -4121412565696627193
+    second: tiny cat_spritesheet_black 01_63
+  - first:
+      213: -7880445523654394400
+    second: tiny cat_spritesheet_black 01_64
+  - first:
+      213: 2063661617161359770
+    second: tiny cat_spritesheet_black 01_65
+  - first:
+      213: -7518871990118093831
+    second: tiny cat_spritesheet_black 01_66
+  - first:
+      213: -4341375709810531590
+    second: tiny cat_spritesheet_black 01_67
+  - first:
+      213: -255963699271472317
+    second: tiny cat_spritesheet_black 01_68
+  - first:
+      213: 6116089237526148233
+    second: tiny cat_spritesheet_black 01_69
+  - first:
+      213: -2711010804963411248
+    second: tiny cat_spritesheet_black 01_70
+  - first:
+      213: -8112675761106651805
+    second: tiny cat_spritesheet_black 01_71
+  - first:
+      213: 7628482793548624801
+    second: tiny cat_spritesheet_black 01_72
+  - first:
+      213: -2048411022193869442
+    second: tiny cat_spritesheet_black 01_73
+  - first:
+      213: -1885304780972601344
+    second: tiny cat_spritesheet_black 01_74
+  - first:
+      213: 3144721994263243185
+    second: tiny cat_spritesheet_black 01_75
+  - first:
+      213: 8384503533286416759
+    second: tiny cat_spritesheet_black 01_76
+  - first:
+      213: -7091880803655815155
+    second: tiny cat_spritesheet_black 01_77
+  - first:
+      213: 2961727300840241160
+    second: tiny cat_spritesheet_black 01_78
+  - first:
+      213: 6150673861233577647
+    second: tiny cat_spritesheet_black 01_79
+  - first:
+      213: 4291743533779550593
+    second: tiny cat_spritesheet_black 01_80
+  - first:
+      213: 3447707108650171952
+    second: tiny cat_spritesheet_black 01_81
+  - first:
+      213: -3276682161572337048
+    second: tiny cat_spritesheet_black 01_82
+  - first:
+      213: -6978364651760780524
+    second: tiny cat_spritesheet_black 01_83
+  - first:
+      213: 1840334757134104889
+    second: tiny cat_spritesheet_black 01_84
+  - first:
+      213: 4915929592200318717
+    second: tiny cat_spritesheet_black 01_85
+  - first:
+      213: -8446747050709726500
+    second: tiny cat_spritesheet_black 01_86
+  - first:
+      213: -5910939386747466331
+    second: tiny cat_spritesheet_black 01_87
+  - first:
+      213: -7347446291984871140
+    second: tiny cat_spritesheet_black 01_88
+  - first:
+      213: 2302899565283433379
+    second: tiny cat_spritesheet_black 01_89
+  - first:
+      213: 2638109925138768581
+    second: tiny cat_spritesheet_black 01_90
+  - first:
+      213: -5134380362616256597
+    second: tiny cat_spritesheet_black 01_91
+  - first:
+      213: -9015894123059801563
+    second: tiny cat_spritesheet_black 01_92
+  - first:
+      213: -5070857162377539408
+    second: tiny cat_spritesheet_black 01_93
+  - first:
+      213: -392835546329221069
+    second: tiny cat_spritesheet_black 01_94
+  - first:
+      213: 8716495438148140802
+    second: tiny cat_spritesheet_black 01_95
+  - first:
+      213: 1489384053875869549
+    second: tiny cat_spritesheet_black 01_96
+  - first:
+      213: -4348239543399143100
+    second: tiny cat_spritesheet_black 01_97
+  - first:
+      213: -7708789214661720739
+    second: tiny cat_spritesheet_black 01_98
+  - first:
+      213: -6014698930720785504
+    second: tiny cat_spritesheet_black 01_99
+  - first:
+      213: -646404298517915357
+    second: tiny cat_spritesheet_black 01_100
+  - first:
+      213: -1981949003600520466
+    second: tiny cat_spritesheet_black 01_101
+  - first:
+      213: -4879930512304576440
+    second: tiny cat_spritesheet_black 01_102
+  - first:
+      213: -6082953398020808889
+    second: tiny cat_spritesheet_black 01_103
+  - first:
+      213: -7875523046837401853
+    second: tiny cat_spritesheet_black 01_104
+  - first:
+      213: -1956427373843475611
+    second: tiny cat_spritesheet_black 01_105
+  - first:
+      213: 1419637508158584168
+    second: tiny cat_spritesheet_black 01_106
+  - first:
+      213: -6081433062865985361
+    second: tiny cat_spritesheet_black 01_107
+  - first:
+      213: 9192647761000310428
+    second: tiny cat_spritesheet_black 01_108
+  - first:
+      213: -8559910852230189672
+    second: tiny cat_spritesheet_black 01_109
+  - first:
+      213: -5071127175039638763
+    second: tiny cat_spritesheet_black 01_110
+  - first:
+      213: -4131247891291904999
+    second: tiny cat_spritesheet_black 01_111
+  - first:
+      213: 2515147266920818178
+    second: tiny cat_spritesheet_black 01_112
+  - first:
+      213: -6492566802098674409
+    second: tiny cat_spritesheet_black 01_113
+  - first:
+      213: 837562732378614639
+    second: tiny cat_spritesheet_black 01_114
+  - first:
+      213: -5040031416290498961
+    second: tiny cat_spritesheet_black 01_115
+  - first:
+      213: -966836969376328057
+    second: tiny cat_spritesheet_black 01_116
+  - first:
+      213: 1713205846471713766
+    second: tiny cat_spritesheet_black 01_117
+  - first:
+      213: 569914794666136499
+    second: tiny cat_spritesheet_black 01_118
+  - first:
+      213: 8540596956274415675
+    second: tiny cat_spritesheet_black 01_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104ae535a1821c30800000000000000
+      internalID: 4328664738430599186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378603df6628186f0800000000000000
+      internalID: -684122289537521549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ac122b15f161dd0800000000000000
+      internalID: -2515788906098472381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5489738a98da9d950800000000000000
+      internalID: 6474396746066139205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf413c9afa5c9e0800000000000000
+      internalID: -1601680948803076915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aa22eab692187e0800000000000000
+      internalID: -1765084036492776811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f058d57cac9fa150800000000000000
+      internalID: 5886095502521946357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e61c1bcfe85ee50800000000000000
+      internalID: 6838028825197112912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a02ee57575bfd70800000000000000
+      internalID: 9077945506661010008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ddaf38fccc6e150800000000000000
+      internalID: 5901629553360166241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805a4f18651992eb0800000000000000
+      internalID: -4744100931724598008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4ce4587b0570e80800000000000000
+      internalID: -8212506646341040944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa632ebcd2b08d0800000000000000
+      internalID: -2879157183076454526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1535ea04e6f8c090800000000000000
+      internalID: -8013884077610027745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467bf47f4b81792f0800000000000000
+      internalID: -966276429525305500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1580b35d969c89a40800000000000000
+      internalID: 5375267611652851793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0a8bfb28d876950800000000000000
+      internalID: 6442273384678596821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202f0ae09a02ab710800000000000000
+      internalID: 1709714919007515138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1239ea36343ba0cb0800000000000000
+      internalID: -4896904542795427039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cbfdb2cfad071c0800000000000000
+      internalID: -4507862450395169742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1b9c59fa1d58390800000000000000
+      internalID: -7816611026169122325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924dcd0688e7a89a0800000000000000
+      internalID: -6230028010307922903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e5cbdce268b1590800000000000000
+      internalID: -7702415202108809588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04798573c2ed15b0800000000000000
+      internalID: -5395907449401543667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c600ef625485bd0800000000000000
+      internalID: -2641285147680281493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0667e0478dc279f60800000000000000
+      internalID: 8040944967864972896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a7aaf5a44335980800000000000000
+      internalID: -8551433773409207708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636b23c6bf78f6530800000000000000
+      internalID: 3850445720346867254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aca47a37ee33c50800000000000000
+      internalID: 6643916055796959829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641f92fd823155d10800000000000000
+      internalID: 2113616666384003398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97db6ee6936fb2cf0800000000000000
+      internalID: -275856225618969223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68094aeaba9a0e260800000000000000
+      internalID: 7124881165334646918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa43a64b79b256e0800000000000000
+      internalID: -1850212557778629972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd03c755f4a64a40800000000000000
+      internalID: 5352146580822756817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a189fe2d73698a0800000000000000
+      internalID: -6298785649728677305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70379dd2dd92ab550800000000000000
+      internalID: 6177295868825793287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6351c7f6fa4161b0800000000000000
+      internalID: -5665164431676320914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc2c60cfb3a54e0800000000000000
+      internalID: -1992213931526796454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535229eed2444f600800000000000000
+      internalID: 501100422611739957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87767b2081421df40800000000000000
+      internalID: 5751417884672223096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e4858428ac555c0800000000000000
+      internalID: -4227250014309036462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4164d2c715a3bba0800000000000000
+      internalID: -6074329950921137844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f10e9b31c851460800000000000000
+      internalID: 7211824394654457658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651390295b09e1d10800000000000000
+      internalID: 2098273585914786134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298c8511d693206e0800000000000000
+      internalID: -1872871354427455342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931735069ea8ac6c0800000000000000
+      internalID: -4122329773956173511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f46aee828cb4820800000000000000
+      internalID: 2903634462898540304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce5065bfc63b3290800000000000000
+      internalID: -7909668054817022271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c18f2cfcec909f0800000000000000
+      internalID: -501642491750507451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04de5a9b96989c0800000000000000
+      internalID: -3924489354203021089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f9cab2f8703f40800000000000000
+      internalID: 5706193711789634858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089863eb98a889ca0800000000000000
+      internalID: -6009901378519529088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e9c91827c67eb20800000000000000
+      internalID: 3163616502307659353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309528ef0b4dca00800000000000000
+      internalID: 778360842296332343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0705fd2e9b4894e0800000000000000
+      internalID: -1974745293854013681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f09217de0a2950800000000000000
+      internalID: 6424964135289680992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30faa0f9b25a3bd00800000000000000
+      internalID: 987314350094724867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7f274f0ee2446c0800000000000000
+      internalID: -4160148612074768416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58afa8f19d15babd0800000000000000
+      internalID: -2617908765406856571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713d6dc701c66450800000000000000
+      internalID: 6081760586065850745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1b16cdccc0c5760800000000000000
+      internalID: 7447841957774209467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be9e4ce76107fbd0800000000000000
+      internalID: -2596605114297966924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004f14ca25977c560800000000000000
+      internalID: 7333963914180424704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e32d09b1dcdc6c0800000000000000
+      internalID: -4121412565696627193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed33c27c8803a290800000000000000
+      internalID: -7880445523654394400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d28b9e4993ac10800000000000000
+      internalID: 2063661617161359770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb606df2c997a790800000000000000
+      internalID: -7518871990118093831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2eb342bc550c3c0800000000000000
+      internalID: -4341375709810531590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b67852f52a27cf0800000000000000
+      internalID: -255963699271472317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984f551d1c6b0e450800000000000000
+      internalID: 6116089237526148233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daf8e3590e806ad0800000000000000
+      internalID: -2711010804963411248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f059c06cf96f80800000000000000
+      internalID: -8112675761106651805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a335aceea0ddd960800000000000000
+      internalID: 7628482793548624801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7db32c37059293e0800000000000000
+      internalID: -2048411022193869442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00058cc5a4d06d5e0800000000000000
+      internalID: -1885304780972601344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b92b690efb44ab20800000000000000
+      internalID: 3144721994263243185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7716b8f5a8dbb5470800000000000000
+      internalID: 8384503533286416759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00fea4cbf3949d90800000000000000
+      internalID: -7091880803655815155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b828c94b2a1920800000000000000
+      internalID: 2961727300840241160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae8b140a459b5550800000000000000
+      internalID: 6150673861233577647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181820e51065f8b30800000000000000
+      internalID: 4291743533779550593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ebeac3957b8df20800000000000000
+      internalID: 3447707108650171952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a2f954fe2e682d0800000000000000
+      internalID: -3276682161572337048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf7aa725ed72f90800000000000000
+      internalID: -6978364651760780524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93978ca06be2a8910800000000000000
+      internalID: 1840334757134104889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe4eeb1be3e83440800000000000000
+      internalID: 4915929592200318717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda4ed66f4027ca80800000000000000
+      internalID: -8446747050709726500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad4d0cf1ff18fda0800000000000000
+      internalID: -5910939386747466331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c111bff9680a80a90800000000000000
+      internalID: -7347446291984871140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abde1e04fa85ff10800000000000000
+      internalID: 2302899565283433379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c22456eff27c9420800000000000000
+      internalID: 2638109925138768581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7448863440fb8b0800000000000000
+      internalID: -5134380362616256597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5221d76301c11e280800000000000000
+      internalID: -9015894123059801563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ddb10742b0a9b0800000000000000
+      internalID: -5070857162377539408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33876e5e62e5c8af0800000000000000
+      internalID: -392835546329221069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ff1254b6637f870800000000000000
+      internalID: 8716495438148140802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d670769e7ea5ba410800000000000000
+      internalID: 1489384053875869549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44923695c23f7a3c0800000000000000
+      internalID: -4348239543399143100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55c9bb5d01e40590800000000000000
+      internalID: -7708789214661720739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab3773903f778ca0800000000000000
+      internalID: -6014698930720785504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329dd8d17b28707f0800000000000000
+      internalID: -646404298517915357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea937dc1e3be74e0800000000000000
+      internalID: -1981949003600520466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ee75dd01074cb0800000000000000
+      internalID: -4879930512304576440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd6b50d12059ba0800000000000000
+      internalID: -6082953398020808889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307cad4e38584b290800000000000000
+      internalID: -7875523046837401853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56395394baf59d4e0800000000000000
+      internalID: -1956427373843475611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865fc97cac093b310800000000000000
+      internalID: 1419637508158584168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ae82a9d86a9ba0800000000000000
+      internalID: -6081433062865985361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96a6b31f68d29f70800000000000000
+      internalID: 9192647761000310428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89deec7ae66153980800000000000000
+      internalID: -8559910852230189672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513aee8c3bcbf99b0800000000000000
+      internalID: -5071127175039638763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914e6706eebdaa6c0800000000000000
+      internalID: -4131247891291904999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062c9a0d1997e220800000000000000
+      internalID: 2515147266920818178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7152a6084e4c5e5a0800000000000000
+      internalID: -6492566802098674409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b68841ede9f9b00800000000000000
+      internalID: 837562732378614639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_black 01_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66223f41263e0ab0800000000000000
+      internalID: -5040031416290498961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89e016c3c0ecd6b4faf6d84ae8298a31
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiny cat_spritesheet_black 01_0: 4328664738430599186
+      tiny cat_spritesheet_black 01_1: -684122289537521549
+      tiny cat_spritesheet_black 01_10: -4744100931724598008
+      tiny cat_spritesheet_black 01_100: -646404298517915357
+      tiny cat_spritesheet_black 01_101: -1981949003600520466
+      tiny cat_spritesheet_black 01_102: -4879930512304576440
+      tiny cat_spritesheet_black 01_103: -6082953398020808889
+      tiny cat_spritesheet_black 01_104: -7875523046837401853
+      tiny cat_spritesheet_black 01_105: -1956427373843475611
+      tiny cat_spritesheet_black 01_106: 1419637508158584168
+      tiny cat_spritesheet_black 01_107: -6081433062865985361
+      tiny cat_spritesheet_black 01_108: 9192647761000310428
+      tiny cat_spritesheet_black 01_109: -8559910852230189672
+      tiny cat_spritesheet_black 01_11: -8212506646341040944
+      tiny cat_spritesheet_black 01_110: -5071127175039638763
+      tiny cat_spritesheet_black 01_111: -4131247891291904999
+      tiny cat_spritesheet_black 01_112: 2515147266920818178
+      tiny cat_spritesheet_black 01_113: -6492566802098674409
+      tiny cat_spritesheet_black 01_114: 837562732378614639
+      tiny cat_spritesheet_black 01_115: -5040031416290498961
+      tiny cat_spritesheet_black 01_12: -2879157183076454526
+      tiny cat_spritesheet_black 01_13: -8013884077610027745
+      tiny cat_spritesheet_black 01_14: -966276429525305500
+      tiny cat_spritesheet_black 01_15: 5375267611652851793
+      tiny cat_spritesheet_black 01_16: 6442273384678596821
+      tiny cat_spritesheet_black 01_17: 1709714919007515138
+      tiny cat_spritesheet_black 01_18: -4896904542795427039
+      tiny cat_spritesheet_black 01_19: -4507862450395169742
+      tiny cat_spritesheet_black 01_2: -2515788906098472381
+      tiny cat_spritesheet_black 01_20: -7816611026169122325
+      tiny cat_spritesheet_black 01_21: -6230028010307922903
+      tiny cat_spritesheet_black 01_22: -7702415202108809588
+      tiny cat_spritesheet_black 01_23: -5395907449401543667
+      tiny cat_spritesheet_black 01_24: -2641285147680281493
+      tiny cat_spritesheet_black 01_25: 8040944967864972896
+      tiny cat_spritesheet_black 01_26: -8551433773409207708
+      tiny cat_spritesheet_black 01_27: 3850445720346867254
+      tiny cat_spritesheet_black 01_28: 6643916055796959829
+      tiny cat_spritesheet_black 01_29: 2113616666384003398
+      tiny cat_spritesheet_black 01_3: 6474396746066139205
+      tiny cat_spritesheet_black 01_30: -275856225618969223
+      tiny cat_spritesheet_black 01_31: 7124881165334646918
+      tiny cat_spritesheet_black 01_32: -1850212557778629972
+      tiny cat_spritesheet_black 01_33: 5352146580822756817
+      tiny cat_spritesheet_black 01_34: -6298785649728677305
+      tiny cat_spritesheet_black 01_35: 6177295868825793287
+      tiny cat_spritesheet_black 01_36: -5665164431676320914
+      tiny cat_spritesheet_black 01_37: -1992213931526796454
+      tiny cat_spritesheet_black 01_38: 501100422611739957
+      tiny cat_spritesheet_black 01_39: 5751417884672223096
+      tiny cat_spritesheet_black 01_4: -1601680948803076915
+      tiny cat_spritesheet_black 01_40: -4227250014309036462
+      tiny cat_spritesheet_black 01_41: -6074329950921137844
+      tiny cat_spritesheet_black 01_42: 7211824394654457658
+      tiny cat_spritesheet_black 01_43: 2098273585914786134
+      tiny cat_spritesheet_black 01_44: -1872871354427455342
+      tiny cat_spritesheet_black 01_45: -4122329773956173511
+      tiny cat_spritesheet_black 01_46: 2903634462898540304
+      tiny cat_spritesheet_black 01_47: -7909668054817022271
+      tiny cat_spritesheet_black 01_48: -501642491750507451
+      tiny cat_spritesheet_black 01_49: -3924489354203021089
+      tiny cat_spritesheet_black 01_5: -1765084036492776811
+      tiny cat_spritesheet_black 01_50: 5706193711789634858
+      tiny cat_spritesheet_black 01_51: -6009901378519529088
+      tiny cat_spritesheet_black 01_52: 3163616502307659353
+      tiny cat_spritesheet_black 01_53: 778360842296332343
+      tiny cat_spritesheet_black 01_54: -1974745293854013681
+      tiny cat_spritesheet_black 01_55: 6424964135289680992
+      tiny cat_spritesheet_black 01_56: 987314350094724867
+      tiny cat_spritesheet_black 01_57: -4160148612074768416
+      tiny cat_spritesheet_black 01_58: -2617908765406856571
+      tiny cat_spritesheet_black 01_59: 6081760586065850745
+      tiny cat_spritesheet_black 01_6: 5886095502521946357
+      tiny cat_spritesheet_black 01_60: 7447841957774209467
+      tiny cat_spritesheet_black 01_61: -2596605114297966924
+      tiny cat_spritesheet_black 01_62: 7333963914180424704
+      tiny cat_spritesheet_black 01_63: -4121412565696627193
+      tiny cat_spritesheet_black 01_64: -7880445523654394400
+      tiny cat_spritesheet_black 01_65: 2063661617161359770
+      tiny cat_spritesheet_black 01_66: -7518871990118093831
+      tiny cat_spritesheet_black 01_67: -4341375709810531590
+      tiny cat_spritesheet_black 01_68: -255963699271472317
+      tiny cat_spritesheet_black 01_69: 6116089237526148233
+      tiny cat_spritesheet_black 01_7: 6838028825197112912
+      tiny cat_spritesheet_black 01_70: -2711010804963411248
+      tiny cat_spritesheet_black 01_71: -8112675761106651805
+      tiny cat_spritesheet_black 01_72: 7628482793548624801
+      tiny cat_spritesheet_black 01_73: -2048411022193869442
+      tiny cat_spritesheet_black 01_74: -1885304780972601344
+      tiny cat_spritesheet_black 01_75: 3144721994263243185
+      tiny cat_spritesheet_black 01_76: 8384503533286416759
+      tiny cat_spritesheet_black 01_77: -7091880803655815155
+      tiny cat_spritesheet_black 01_78: 2961727300840241160
+      tiny cat_spritesheet_black 01_79: 6150673861233577647
+      tiny cat_spritesheet_black 01_8: 9077945506661010008
+      tiny cat_spritesheet_black 01_80: 4291743533779550593
+      tiny cat_spritesheet_black 01_81: 3447707108650171952
+      tiny cat_spritesheet_black 01_82: -3276682161572337048
+      tiny cat_spritesheet_black 01_83: -6978364651760780524
+      tiny cat_spritesheet_black 01_84: 1840334757134104889
+      tiny cat_spritesheet_black 01_85: 4915929592200318717
+      tiny cat_spritesheet_black 01_86: -8446747050709726500
+      tiny cat_spritesheet_black 01_87: -5910939386747466331
+      tiny cat_spritesheet_black 01_88: -7347446291984871140
+      tiny cat_spritesheet_black 01_89: 2302899565283433379
+      tiny cat_spritesheet_black 01_9: 5901629553360166241
+      tiny cat_spritesheet_black 01_90: 2638109925138768581
+      tiny cat_spritesheet_black 01_91: -5134380362616256597
+      tiny cat_spritesheet_black 01_92: -9015894123059801563
+      tiny cat_spritesheet_black 01_93: -5070857162377539408
+      tiny cat_spritesheet_black 01_94: -392835546329221069
+      tiny cat_spritesheet_black 01_95: 8716495438148140802
+      tiny cat_spritesheet_black 01_96: 1489384053875869549
+      tiny cat_spritesheet_black 01_97: -4348239543399143100
+      tiny cat_spritesheet_black 01_98: -7708789214661720739
+      tiny cat_spritesheet_black 01_99: -6014698930720785504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3171 @@
+fileFormatVersion: 2
+guid: 566a5884487899449b0105d37cae22dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 835858415997697049
+    second: tiny cat_spritesheet_calico 00_0
+  - first:
+      213: 2391796626056957889
+    second: tiny cat_spritesheet_calico 00_1
+  - first:
+      213: 1952985135294784815
+    second: tiny cat_spritesheet_calico 00_2
+  - first:
+      213: -2728751420302098938
+    second: tiny cat_spritesheet_calico 00_3
+  - first:
+      213: 2680678539566650414
+    second: tiny cat_spritesheet_calico 00_4
+  - first:
+      213: -1807912531728974345
+    second: tiny cat_spritesheet_calico 00_5
+  - first:
+      213: 8574147587572190640
+    second: tiny cat_spritesheet_calico 00_6
+  - first:
+      213: -2437125665565932315
+    second: tiny cat_spritesheet_calico 00_7
+  - first:
+      213: 6665366837579550010
+    second: tiny cat_spritesheet_calico 00_8
+  - first:
+      213: -8881292541473355647
+    second: tiny cat_spritesheet_calico 00_9
+  - first:
+      213: -942627780130583233
+    second: tiny cat_spritesheet_calico 00_10
+  - first:
+      213: 4493481466230774660
+    second: tiny cat_spritesheet_calico 00_11
+  - first:
+      213: -3119902414486284025
+    second: tiny cat_spritesheet_calico 00_12
+  - first:
+      213: 5701244683157513630
+    second: tiny cat_spritesheet_calico 00_13
+  - first:
+      213: 5190711219828271822
+    second: tiny cat_spritesheet_calico 00_14
+  - first:
+      213: -1848124370169890550
+    second: tiny cat_spritesheet_calico 00_15
+  - first:
+      213: -5789965497226440224
+    second: tiny cat_spritesheet_calico 00_16
+  - first:
+      213: 5611697636192580696
+    second: tiny cat_spritesheet_calico 00_17
+  - first:
+      213: 2284868813325378370
+    second: tiny cat_spritesheet_calico 00_18
+  - first:
+      213: -7688259842181733147
+    second: tiny cat_spritesheet_calico 00_19
+  - first:
+      213: 3672408776511288508
+    second: tiny cat_spritesheet_calico 00_20
+  - first:
+      213: 1687791564732551981
+    second: tiny cat_spritesheet_calico 00_21
+  - first:
+      213: 2297084907066710056
+    second: tiny cat_spritesheet_calico 00_22
+  - first:
+      213: -1240491482014067579
+    second: tiny cat_spritesheet_calico 00_23
+  - first:
+      213: 9150392950795424137
+    second: tiny cat_spritesheet_calico 00_24
+  - first:
+      213: 2636891052351244191
+    second: tiny cat_spritesheet_calico 00_25
+  - first:
+      213: -7788425809638417417
+    second: tiny cat_spritesheet_calico 00_26
+  - first:
+      213: 4476063825136109956
+    second: tiny cat_spritesheet_calico 00_27
+  - first:
+      213: -8951656298182015575
+    second: tiny cat_spritesheet_calico 00_28
+  - first:
+      213: 5564760885798269642
+    second: tiny cat_spritesheet_calico 00_29
+  - first:
+      213: 3106892081500877578
+    second: tiny cat_spritesheet_calico 00_30
+  - first:
+      213: -5711930341391734033
+    second: tiny cat_spritesheet_calico 00_31
+  - first:
+      213: -7021785444877210784
+    second: tiny cat_spritesheet_calico 00_32
+  - first:
+      213: 3841977000924569929
+    second: tiny cat_spritesheet_calico 00_33
+  - first:
+      213: -5885854985285495469
+    second: tiny cat_spritesheet_calico 00_34
+  - first:
+      213: -4508771537449030213
+    second: tiny cat_spritesheet_calico 00_35
+  - first:
+      213: 7944033009617732850
+    second: tiny cat_spritesheet_calico 00_36
+  - first:
+      213: 2152512155757568086
+    second: tiny cat_spritesheet_calico 00_37
+  - first:
+      213: -3195142580109836956
+    second: tiny cat_spritesheet_calico 00_38
+  - first:
+      213: 5864445579467047413
+    second: tiny cat_spritesheet_calico 00_39
+  - first:
+      213: -3736679613235628635
+    second: tiny cat_spritesheet_calico 00_40
+  - first:
+      213: -2009650538474352493
+    second: tiny cat_spritesheet_calico 00_41
+  - first:
+      213: -3398615938638079101
+    second: tiny cat_spritesheet_calico 00_42
+  - first:
+      213: 7873672810304367214
+    second: tiny cat_spritesheet_calico 00_43
+  - first:
+      213: 4930587270977765061
+    second: tiny cat_spritesheet_calico 00_44
+  - first:
+      213: 3315864216736165162
+    second: tiny cat_spritesheet_calico 00_45
+  - first:
+      213: 8892305856777690735
+    second: tiny cat_spritesheet_calico 00_46
+  - first:
+      213: -3267851145641822368
+    second: tiny cat_spritesheet_calico 00_47
+  - first:
+      213: -2649234723698247970
+    second: tiny cat_spritesheet_calico 00_48
+  - first:
+      213: -289409477811438576
+    second: tiny cat_spritesheet_calico 00_49
+  - first:
+      213: -2740591465549227023
+    second: tiny cat_spritesheet_calico 00_50
+  - first:
+      213: -7945094036813764656
+    second: tiny cat_spritesheet_calico 00_51
+  - first:
+      213: -2660034000675892678
+    second: tiny cat_spritesheet_calico 00_52
+  - first:
+      213: -7718209988554962133
+    second: tiny cat_spritesheet_calico 00_53
+  - first:
+      213: -2359826713079652648
+    second: tiny cat_spritesheet_calico 00_54
+  - first:
+      213: -6584562632248864556
+    second: tiny cat_spritesheet_calico 00_55
+  - first:
+      213: -1060260530108828430
+    second: tiny cat_spritesheet_calico 00_56
+  - first:
+      213: -6530299269356099676
+    second: tiny cat_spritesheet_calico 00_57
+  - first:
+      213: -8097465188518404500
+    second: tiny cat_spritesheet_calico 00_58
+  - first:
+      213: 5435452747774988552
+    second: tiny cat_spritesheet_calico 00_59
+  - first:
+      213: -1986233537345673209
+    second: tiny cat_spritesheet_calico 00_60
+  - first:
+      213: -222302429242058770
+    second: tiny cat_spritesheet_calico 00_61
+  - first:
+      213: 4835714434779339570
+    second: tiny cat_spritesheet_calico 00_62
+  - first:
+      213: 2005707677753787362
+    second: tiny cat_spritesheet_calico 00_63
+  - first:
+      213: 7604235772107870250
+    second: tiny cat_spritesheet_calico 00_64
+  - first:
+      213: 6318174206537856974
+    second: tiny cat_spritesheet_calico 00_65
+  - first:
+      213: -2399008795823105830
+    second: tiny cat_spritesheet_calico 00_66
+  - first:
+      213: 8668824051888803720
+    second: tiny cat_spritesheet_calico 00_67
+  - first:
+      213: -8208126022759054342
+    second: tiny cat_spritesheet_calico 00_68
+  - first:
+      213: 6744454114495100146
+    second: tiny cat_spritesheet_calico 00_69
+  - first:
+      213: 8777261317010446749
+    second: tiny cat_spritesheet_calico 00_70
+  - first:
+      213: 3595112111747699795
+    second: tiny cat_spritesheet_calico 00_71
+  - first:
+      213: 8617606670909619269
+    second: tiny cat_spritesheet_calico 00_72
+  - first:
+      213: 6736711703909816875
+    second: tiny cat_spritesheet_calico 00_73
+  - first:
+      213: 7698698140381316278
+    second: tiny cat_spritesheet_calico 00_74
+  - first:
+      213: 1368400243758035894
+    second: tiny cat_spritesheet_calico 00_75
+  - first:
+      213: 6926152112353463749
+    second: tiny cat_spritesheet_calico 00_76
+  - first:
+      213: -232842132873356809
+    second: tiny cat_spritesheet_calico 00_77
+  - first:
+      213: 6172424234751662688
+    second: tiny cat_spritesheet_calico 00_78
+  - first:
+      213: 6214239744852558123
+    second: tiny cat_spritesheet_calico 00_79
+  - first:
+      213: -8986052778463148026
+    second: tiny cat_spritesheet_calico 00_80
+  - first:
+      213: -3321637060813194128
+    second: tiny cat_spritesheet_calico 00_81
+  - first:
+      213: 2986051157146374804
+    second: tiny cat_spritesheet_calico 00_82
+  - first:
+      213: 4731908237946340246
+    second: tiny cat_spritesheet_calico 00_83
+  - first:
+      213: 173330431498210936
+    second: tiny cat_spritesheet_calico 00_84
+  - first:
+      213: -3390828189562553563
+    second: tiny cat_spritesheet_calico 00_85
+  - first:
+      213: -1385764629176812318
+    second: tiny cat_spritesheet_calico 00_86
+  - first:
+      213: -7104444456922530951
+    second: tiny cat_spritesheet_calico 00_87
+  - first:
+      213: 8608268709109421466
+    second: tiny cat_spritesheet_calico 00_88
+  - first:
+      213: -4849573013759409593
+    second: tiny cat_spritesheet_calico 00_89
+  - first:
+      213: 3479187729359264568
+    second: tiny cat_spritesheet_calico 00_90
+  - first:
+      213: 6414514872951925454
+    second: tiny cat_spritesheet_calico 00_91
+  - first:
+      213: 1771956917002029180
+    second: tiny cat_spritesheet_calico 00_92
+  - first:
+      213: 2590598554872275281
+    second: tiny cat_spritesheet_calico 00_93
+  - first:
+      213: -3067507065155164217
+    second: tiny cat_spritesheet_calico 00_94
+  - first:
+      213: -4431648575495760126
+    second: tiny cat_spritesheet_calico 00_95
+  - first:
+      213: 5293721552304249186
+    second: tiny cat_spritesheet_calico 00_96
+  - first:
+      213: -7782673425612366087
+    second: tiny cat_spritesheet_calico 00_97
+  - first:
+      213: -839994780711296114
+    second: tiny cat_spritesheet_calico 00_98
+  - first:
+      213: -7221419095350551626
+    second: tiny cat_spritesheet_calico 00_99
+  - first:
+      213: -4871580735250808472
+    second: tiny cat_spritesheet_calico 00_100
+  - first:
+      213: -1743423999264713316
+    second: tiny cat_spritesheet_calico 00_101
+  - first:
+      213: -2615992166381237064
+    second: tiny cat_spritesheet_calico 00_102
+  - first:
+      213: 4317804471074998182
+    second: tiny cat_spritesheet_calico 00_103
+  - first:
+      213: 4106176957282244322
+    second: tiny cat_spritesheet_calico 00_104
+  - first:
+      213: 5481995857221419916
+    second: tiny cat_spritesheet_calico 00_105
+  - first:
+      213: 5313156208712230843
+    second: tiny cat_spritesheet_calico 00_106
+  - first:
+      213: 4285568487676907724
+    second: tiny cat_spritesheet_calico 00_107
+  - first:
+      213: 393120036821313370
+    second: tiny cat_spritesheet_calico 00_108
+  - first:
+      213: -6924350910921419891
+    second: tiny cat_spritesheet_calico 00_109
+  - first:
+      213: -6421661652946170012
+    second: tiny cat_spritesheet_calico 00_110
+  - first:
+      213: -6816046513454021656
+    second: tiny cat_spritesheet_calico 00_111
+  - first:
+      213: -8900243109528727264
+    second: tiny cat_spritesheet_calico 00_112
+  - first:
+      213: 809039038886351496
+    second: tiny cat_spritesheet_calico 00_113
+  - first:
+      213: -7873243802712039804
+    second: tiny cat_spritesheet_calico 00_114
+  - first:
+      213: -3787258483620559870
+    second: tiny cat_spritesheet_calico 00_115
+  - first:
+      213: 5808337110832472895
+    second: tiny cat_spritesheet_calico 00_116
+  - first:
+      213: -3007181706653810718
+    second: tiny cat_spritesheet_calico 00_117
+  - first:
+      213: 8608391396553082117
+    second: tiny cat_spritesheet_calico 00_118
+  - first:
+      213: -3962321995009467246
+    second: tiny cat_spritesheet_calico 00_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c30100dc0999b00800000000000000
+      internalID: 835858415997697049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf4a1feb5e513120800000000000000
+      internalID: 2391796626056957889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252dd812a56a1b10800000000000000
+      internalID: 1952985135294784815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60efc807a07812ad0800000000000000
+      internalID: -2728751420302098938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2412ebcdeea33520800000000000000
+      internalID: 2680678539566650414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd3151912109e6e0800000000000000
+      internalID: -1807912531728974345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd43099dcd7df670800000000000000
+      internalID: 8574147587572190640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e484fe9e179d2ed0800000000000000
+      internalID: -2437125665565932315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d099bf2d3208c50800000000000000
+      internalID: 6665366837579550010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18887271d7f4fb480800000000000000
+      internalID: -8881292541473355647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dc6e9370d1be2f0800000000000000
+      internalID: -942627780130583233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9c77069d0c5e30800000000000000
+      internalID: 4493481466230774660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70959a2b841e3b4d0800000000000000
+      internalID: -3119902414486284025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95203535d3ee1f40800000000000000
+      internalID: 5701244683157513630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaaf755a5c190840800000000000000
+      internalID: 5190711219828271822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09f7475da42a56e0800000000000000
+      internalID: -1848124370169890550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1dc0c8e09e5afa0800000000000000
+      internalID: -5789965497226440224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8547820a441c0ed40800000000000000
+      internalID: 5611697636192580696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a0a8741c75bf10800000000000000
+      internalID: 2284868813325378370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e46bdd5860dd4590800000000000000
+      internalID: -7688259842181733147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb47bf1335407f230800000000000000
+      internalID: 3672408776511288508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23d8ce5c7d3c6710800000000000000
+      internalID: 1687791564732551981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8285f907d82e0ef10800000000000000
+      internalID: 2297084907066710056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58457abc193e8cee0800000000000000
+      internalID: -1240491482014067579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981566b68e9bcfe70800000000000000
+      internalID: 9150392950795424137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974dc6f07e189420800000000000000
+      internalID: 2636891052351244191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb9401bdf3f9e390800000000000000
+      internalID: -7788425809638417417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c631755c2e1e30800000000000000
+      internalID: 4476063825136109956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a50973560455c380800000000000000
+      internalID: -8951656298182015575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27ef1da800a3d40800000000000000
+      internalID: 5564760885798269642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03755913e5ed1b20800000000000000
+      internalID: 3106892081500877578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feae19b1e952bb0b0800000000000000
+      internalID: -5711930341391734033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06be515475b9d8e90800000000000000
+      internalID: -7021785444877210784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94164570ab1715530800000000000000
+      internalID: 3841977000924569929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3559892531e315ea0800000000000000
+      internalID: -5885854985285495469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd65f8dc20ad61c0800000000000000
+      internalID: -4508771537449030213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f40e36deefde3e60800000000000000
+      internalID: 7944033009617732850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e3a2b6624fdd10800000000000000
+      internalID: 2152512155757568086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df3d180c298a3d0800000000000000
+      internalID: -3195142580109836956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f14eb0fe22b26150800000000000000
+      internalID: 5864445579467047413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a575a580b5a42cc0800000000000000
+      internalID: -3736679613235628635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390509b9b794c14e0800000000000000
+      internalID: -2009650538474352493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b1f797fc0b5d0d0800000000000000
+      internalID: -3398615938638079101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae7d754b7e44d60800000000000000
+      internalID: 7873672810304367214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce31b4eff6fc6440800000000000000
+      internalID: 4930587270977765061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2decf9dfe0540e20800000000000000
+      internalID: 3315864216736165162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e1c533011d76b70800000000000000
+      internalID: 8892305856777690735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677a2562b246a2d0800000000000000
+      internalID: -3267851145641822368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6f5571e070c3bd0800000000000000
+      internalID: -2649234723698247970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cfa600d9fcbfbf0800000000000000
+      internalID: -289409477811438576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb9875159677f9d0800000000000000
+      internalID: -2740591465549227023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d724a4811b5db190800000000000000
+      internalID: -7945094036813764656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32904b7b29a51bd0800000000000000
+      internalID: -2660034000675892678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b4f4288e863e490800000000000000
+      internalID: -7718209988554962133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded86b7b16304fd0800000000000000
+      internalID: -2359826713079652648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0de772c2fee94a0800000000000000
+      internalID: -6584562632248864556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4fe755aa23941f0800000000000000
+      internalID: -1060260530108828430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7690dd967bf55a0800000000000000
+      internalID: -6530299269356099676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ed441305600af80800000000000000
+      internalID: -8097465188518404500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8019c80d97b9e6b40800000000000000
+      internalID: 5435452747774988552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7082b8d0f1b7f64e0800000000000000
+      internalID: -1986233537345673209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee712505e193aecf0800000000000000
+      internalID: -222302429242058770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b504068a8eb1340800000000000000
+      internalID: 4835714434779339570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c9c79184b5db10800000000000000
+      internalID: 2005707677753787362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20dec0552ca78960800000000000000
+      internalID: 7604235772107870250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec779b937f9aea750800000000000000
+      internalID: 6318174206537856974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad81defe53205bed0800000000000000
+      internalID: -2399008795823105830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fc139bb89dd4870800000000000000
+      internalID: 8668824051888803720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38ecdeed0e61e80800000000000000
+      internalID: -8208126022759054342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4f662984d199d50800000000000000
+      internalID: 6744454114495100146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995f25f9a81fc970800000000000000
+      internalID: 8777261317010446749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3541d6cfa6764e130800000000000000
+      internalID: 3595112111747699795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cba91fb93e79770800000000000000
+      internalID: 8617606670909619269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad2c12a9b9d7d50800000000000000
+      internalID: 6736711703909816875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b483625b2547da60800000000000000
+      internalID: 7698698140381316278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b371c785c88df210800000000000000
+      internalID: 1368400243758035894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd462d56a2ae1060800000000000000
+      internalID: 6926152112353463749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9d6555057c4ccf0800000000000000
+      internalID: -232842132873356809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a926b732bd8a550800000000000000
+      internalID: 6172424234751662688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b210d0d9f1a6d3650800000000000000
+      internalID: 6214239744852558123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608caceab902b4380800000000000000
+      internalID: -8986052778463148026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf47521bc27e1d0800000000000000
+      internalID: -3321637060813194128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4929ad6e4b5907920800000000000000
+      internalID: 2986051157146374804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6934980c87d1ba140800000000000000
+      internalID: 4731908237946340246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e473eeb1bc76200800000000000000
+      internalID: 173330431498210936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b3eba1abb51f0d0800000000000000
+      internalID: -3390828189562553563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec7d9f6966c4cce0800000000000000
+      internalID: -1385764629176812318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb3aa4861f76d90800000000000000
+      internalID: -7104444456922530951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95d39948c6b67770800000000000000
+      internalID: 8608268709109421466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742cc82c90bd2bcb0800000000000000
+      internalID: -4849573013759409593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b5b5b6ece884030800000000000000
+      internalID: 3479187729359264568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca62c89a4fe40950800000000000000
+      internalID: 6414514872951925454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78c3338d61479810800000000000000
+      internalID: 1771956917002029180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1516dcaf8a7a3f320800000000000000
+      internalID: 2590598554872275281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ec6b93960e65d0800000000000000
+      internalID: -3067507065155164217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2079538b91f9f72c0800000000000000
+      internalID: -4431648575495760126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2699ce854b3177940800000000000000
+      internalID: 5293721552304249186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe9087f0c36ef390800000000000000
+      internalID: -7782673425612366087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83658a823db754f0800000000000000
+      internalID: -839994780711296114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb586fe79d58cb90800000000000000
+      internalID: -7221419095350551626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614dbcc12ba46cb0800000000000000
+      internalID: -4871580735250808472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959fe61c1d1ec7e0800000000000000
+      internalID: -1743423999264713316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc44ab1cf022bbd0800000000000000
+      internalID: -2615992166381237064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c40c2a4cebeb30800000000000000
+      internalID: 4317804471074998182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6d3bbef221cf830800000000000000
+      internalID: 4106176957282244322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8388d1ff26f31c40800000000000000
+      internalID: 5481995857221419916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb72478eb6f1cb940800000000000000
+      internalID: 5313156208712230843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0179865d5697b30800000000000000
+      internalID: 4285568487676907724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a2d43794a47500800000000000000
+      internalID: 393120036821313370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8350668883c7ef90800000000000000
+      internalID: -6924350910921419891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f456400cca1e6a0800000000000000
+      internalID: -6421661652946170012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e388091fc98861a0800000000000000
+      internalID: -6816046513454021656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211ce12c0cfb7480800000000000000
+      internalID: -8900243109528727264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8829e3a28b84a3b00800000000000000
+      internalID: 809039038886351496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e9d45c97e9cb290800000000000000
+      internalID: -7873243802712039804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_calico 00_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20446339974f07bc0800000000000000
+      internalID: -3787258483620559870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e4fe650b57712c46a5fa55f043e764c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiny cat_spritesheet_calico 00_0: 835858415997697049
+      tiny cat_spritesheet_calico 00_1: 2391796626056957889
+      tiny cat_spritesheet_calico 00_10: -942627780130583233
+      tiny cat_spritesheet_calico 00_100: -4871580735250808472
+      tiny cat_spritesheet_calico 00_101: -1743423999264713316
+      tiny cat_spritesheet_calico 00_102: -2615992166381237064
+      tiny cat_spritesheet_calico 00_103: 4317804471074998182
+      tiny cat_spritesheet_calico 00_104: 4106176957282244322
+      tiny cat_spritesheet_calico 00_105: 5481995857221419916
+      tiny cat_spritesheet_calico 00_106: 5313156208712230843
+      tiny cat_spritesheet_calico 00_107: 4285568487676907724
+      tiny cat_spritesheet_calico 00_108: 393120036821313370
+      tiny cat_spritesheet_calico 00_109: -6924350910921419891
+      tiny cat_spritesheet_calico 00_11: 4493481466230774660
+      tiny cat_spritesheet_calico 00_110: -6421661652946170012
+      tiny cat_spritesheet_calico 00_111: -6816046513454021656
+      tiny cat_spritesheet_calico 00_112: -8900243109528727264
+      tiny cat_spritesheet_calico 00_113: 809039038886351496
+      tiny cat_spritesheet_calico 00_114: -7873243802712039804
+      tiny cat_spritesheet_calico 00_115: -3787258483620559870
+      tiny cat_spritesheet_calico 00_12: -3119902414486284025
+      tiny cat_spritesheet_calico 00_13: 5701244683157513630
+      tiny cat_spritesheet_calico 00_14: 5190711219828271822
+      tiny cat_spritesheet_calico 00_15: -1848124370169890550
+      tiny cat_spritesheet_calico 00_16: -5789965497226440224
+      tiny cat_spritesheet_calico 00_17: 5611697636192580696
+      tiny cat_spritesheet_calico 00_18: 2284868813325378370
+      tiny cat_spritesheet_calico 00_19: -7688259842181733147
+      tiny cat_spritesheet_calico 00_2: 1952985135294784815
+      tiny cat_spritesheet_calico 00_20: 3672408776511288508
+      tiny cat_spritesheet_calico 00_21: 1687791564732551981
+      tiny cat_spritesheet_calico 00_22: 2297084907066710056
+      tiny cat_spritesheet_calico 00_23: -1240491482014067579
+      tiny cat_spritesheet_calico 00_24: 9150392950795424137
+      tiny cat_spritesheet_calico 00_25: 2636891052351244191
+      tiny cat_spritesheet_calico 00_26: -7788425809638417417
+      tiny cat_spritesheet_calico 00_27: 4476063825136109956
+      tiny cat_spritesheet_calico 00_28: -8951656298182015575
+      tiny cat_spritesheet_calico 00_29: 5564760885798269642
+      tiny cat_spritesheet_calico 00_3: -2728751420302098938
+      tiny cat_spritesheet_calico 00_30: 3106892081500877578
+      tiny cat_spritesheet_calico 00_31: -5711930341391734033
+      tiny cat_spritesheet_calico 00_32: -7021785444877210784
+      tiny cat_spritesheet_calico 00_33: 3841977000924569929
+      tiny cat_spritesheet_calico 00_34: -5885854985285495469
+      tiny cat_spritesheet_calico 00_35: -4508771537449030213
+      tiny cat_spritesheet_calico 00_36: 7944033009617732850
+      tiny cat_spritesheet_calico 00_37: 2152512155757568086
+      tiny cat_spritesheet_calico 00_38: -3195142580109836956
+      tiny cat_spritesheet_calico 00_39: 5864445579467047413
+      tiny cat_spritesheet_calico 00_4: 2680678539566650414
+      tiny cat_spritesheet_calico 00_40: -3736679613235628635
+      tiny cat_spritesheet_calico 00_41: -2009650538474352493
+      tiny cat_spritesheet_calico 00_42: -3398615938638079101
+      tiny cat_spritesheet_calico 00_43: 7873672810304367214
+      tiny cat_spritesheet_calico 00_44: 4930587270977765061
+      tiny cat_spritesheet_calico 00_45: 3315864216736165162
+      tiny cat_spritesheet_calico 00_46: 8892305856777690735
+      tiny cat_spritesheet_calico 00_47: -3267851145641822368
+      tiny cat_spritesheet_calico 00_48: -2649234723698247970
+      tiny cat_spritesheet_calico 00_49: -289409477811438576
+      tiny cat_spritesheet_calico 00_5: -1807912531728974345
+      tiny cat_spritesheet_calico 00_50: -2740591465549227023
+      tiny cat_spritesheet_calico 00_51: -7945094036813764656
+      tiny cat_spritesheet_calico 00_52: -2660034000675892678
+      tiny cat_spritesheet_calico 00_53: -7718209988554962133
+      tiny cat_spritesheet_calico 00_54: -2359826713079652648
+      tiny cat_spritesheet_calico 00_55: -6584562632248864556
+      tiny cat_spritesheet_calico 00_56: -1060260530108828430
+      tiny cat_spritesheet_calico 00_57: -6530299269356099676
+      tiny cat_spritesheet_calico 00_58: -8097465188518404500
+      tiny cat_spritesheet_calico 00_59: 5435452747774988552
+      tiny cat_spritesheet_calico 00_6: 8574147587572190640
+      tiny cat_spritesheet_calico 00_60: -1986233537345673209
+      tiny cat_spritesheet_calico 00_61: -222302429242058770
+      tiny cat_spritesheet_calico 00_62: 4835714434779339570
+      tiny cat_spritesheet_calico 00_63: 2005707677753787362
+      tiny cat_spritesheet_calico 00_64: 7604235772107870250
+      tiny cat_spritesheet_calico 00_65: 6318174206537856974
+      tiny cat_spritesheet_calico 00_66: -2399008795823105830
+      tiny cat_spritesheet_calico 00_67: 8668824051888803720
+      tiny cat_spritesheet_calico 00_68: -8208126022759054342
+      tiny cat_spritesheet_calico 00_69: 6744454114495100146
+      tiny cat_spritesheet_calico 00_7: -2437125665565932315
+      tiny cat_spritesheet_calico 00_70: 8777261317010446749
+      tiny cat_spritesheet_calico 00_71: 3595112111747699795
+      tiny cat_spritesheet_calico 00_72: 8617606670909619269
+      tiny cat_spritesheet_calico 00_73: 6736711703909816875
+      tiny cat_spritesheet_calico 00_74: 7698698140381316278
+      tiny cat_spritesheet_calico 00_75: 1368400243758035894
+      tiny cat_spritesheet_calico 00_76: 6926152112353463749
+      tiny cat_spritesheet_calico 00_77: -232842132873356809
+      tiny cat_spritesheet_calico 00_78: 6172424234751662688
+      tiny cat_spritesheet_calico 00_79: 6214239744852558123
+      tiny cat_spritesheet_calico 00_8: 6665366837579550010
+      tiny cat_spritesheet_calico 00_80: -8986052778463148026
+      tiny cat_spritesheet_calico 00_81: -3321637060813194128
+      tiny cat_spritesheet_calico 00_82: 2986051157146374804
+      tiny cat_spritesheet_calico 00_83: 4731908237946340246
+      tiny cat_spritesheet_calico 00_84: 173330431498210936
+      tiny cat_spritesheet_calico 00_85: -3390828189562553563
+      tiny cat_spritesheet_calico 00_86: -1385764629176812318
+      tiny cat_spritesheet_calico 00_87: -7104444456922530951
+      tiny cat_spritesheet_calico 00_88: 8608268709109421466
+      tiny cat_spritesheet_calico 00_89: -4849573013759409593
+      tiny cat_spritesheet_calico 00_9: -8881292541473355647
+      tiny cat_spritesheet_calico 00_90: 3479187729359264568
+      tiny cat_spritesheet_calico 00_91: 6414514872951925454
+      tiny cat_spritesheet_calico 00_92: 1771956917002029180
+      tiny cat_spritesheet_calico 00_93: 2590598554872275281
+      tiny cat_spritesheet_calico 00_94: -3067507065155164217
+      tiny cat_spritesheet_calico 00_95: -4431648575495760126
+      tiny cat_spritesheet_calico 00_96: 5293721552304249186
+      tiny cat_spritesheet_calico 00_97: -7782673425612366087
+      tiny cat_spritesheet_calico 00_98: -839994780711296114
+      tiny cat_spritesheet_calico 00_99: -7221419095350551626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

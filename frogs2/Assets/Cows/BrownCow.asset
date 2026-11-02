@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b5dece096a84b459c2e6f81ddff6f4, type: 3}
+  m_Name: BrownCow
+  m_EditorClassIdentifier: 
+  animalName: Brown Cow
+  animalSprite: {fileID: -6156274802597656792, guid: bb50b2a8c8cc67d49a4660692e50ca96, type: 3}
+  coinsPerSecond: 1.5
+  sellPrice: 0
+  rarity: 1
+  animalType: 4

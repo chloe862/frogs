@@ -1012,7 +1012,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.3223616, g: 0.5660378, b: 0.30793875, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -3053,6 +3053,10 @@ MonoBehaviour:
   brownFrogData: {fileID: 11400000, guid: b77d145680a23f6428594483f8fbd0a9, type: 2}
   greenFrogData: {fileID: 11400000, guid: add797ea06e30b34492349bd74c5d290, type: 2}
   pinkFrogData: {fileID: 11400000, guid: 154659d89dda0094e9378ffb10515aba, type: 2}
+  whiteCowData: {fileID: 11400000, guid: 411a2b92f5d18734caa408984841955d, type: 2}
+  brownCowData: {fileID: 11400000, guid: 7704151183d53a845931f9ebbc47db33, type: 2}
+  blackCowData: {fileID: 11400000, guid: 6ce895992a3455b4eaf642086a86b594, type: 2}
+  spottedCowData: {fileID: 11400000, guid: e67d55f1cf0f19545886502a87ab077e, type: 2}
   coinCountText: {fileID: 1332218923}
   shopContainer: {fileID: 1872535266}
   totalCPS: 0

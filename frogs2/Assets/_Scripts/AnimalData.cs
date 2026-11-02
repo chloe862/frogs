@@ -15,9 +15,10 @@ public class AnimalData : ScriptableObject
     {
         Frog,
         Bird,
-        Snake,
-        Turtle,
-        Fish
+        Cat,
+        Pig,
+        Cow,
+        Alpaca
     }
 
     public enum Rarity
