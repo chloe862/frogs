@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalName: Pink Frog
   animalSprite: {fileID: 3775194573299024420, guid: 7dab0005e91a20f43aa6fdefe8649e39, type: 3}
-  coinsPerSecond: 0.1
-  sellPrice: 10
+  coinsPerSecond: 160
+  sellPrice: 30
   rarity: 3
   animalType: 0

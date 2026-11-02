@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalName: Black Cow
   animalSprite: {fileID: -5368942138711553804, guid: 63f2133a4a6a0ae4bbf58caf5f0e50ea, type: 3}
-  coinsPerSecond: 1
-  sellPrice: 0
+  coinsPerSecond: 17578124
+  sellPrice: 5859375
   rarity: 2
   animalType: 4

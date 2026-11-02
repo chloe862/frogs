@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalName: Spotted Cow
   animalSprite: {fileID: -4412161323009488022, guid: 8976f64502046fc4090b4313d70e2170, type: 3}
-  coinsPerSecond: 2
-  sellPrice: 0
+  coinsPerSecond: 62500000
+  sellPrice: 11718750
   rarity: 3
   animalType: 4

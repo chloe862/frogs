@@ -1,8 +1,6 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
-using static UnityEngine.UI.Image;
 
 public class GameManager : MonoBehaviour
 {
@@ -25,7 +23,8 @@ public class GameManager : MonoBehaviour
     [Header("UI")]
     public TextMeshProUGUI coinCountText;
     public GameObject shopContainer;
-    public float totalCPS = 0f;
+    public GameObject menuContainer;
+    public float totalCPD = 0f;
     private float coinCount = 10f;
     //private float timer = 0f;
 
@@ -38,7 +37,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        coinCount += totalCPS * Time.deltaTime;
+        coinCount += (totalCPD/ 86400) * Time.deltaTime;
         coinCountText.text = $"${coinCount:F2}";
     }
 
@@ -66,36 +65,7 @@ public class GameManager : MonoBehaviour
 
     public void BuyFrog()
     {
-        Debug.Log("Frog Bought");
-        float cost = 1f;
-        if (coinCount >= cost)
-        {
-            coinCount -= cost;
-            Vector2 spawnPosition = new Vector2(Random.Range(-8f, 9f), Random.Range(-4f, 5f));
-            Animal animal = Instantiate(animalPrefab, spawnPosition, Quaternion.identity);
-
-            UnityEngine.Random.InitState(System.DateTime.Now.Millisecond);
-            int rarityWeight = UnityEngine.Random.Range(0, 101);
-            Debug.Log(rarityWeight);
-            if (rarityWeight >= 95)
-            {
-                animal.Initialize(pinkFrogData);
-            }
-            else if (rarityWeight >= 80)
-            {
-                animal.Initialize(blueFrogData);
-            }
-            else if (rarityWeight >= 50)
-            {
-                animal.Initialize(greenFrogData);
-            }
-            else
-            {
-                animal.Initialize(brownFrogData);
-            }
-                ownedAnimals.Add(animal);
-            totalCPS += animal.data.coinsPerSecond;
-        }
+        BuyAnimal(5f, new AnimalData[] { brownFrogData, greenFrogData, blueFrogData, pinkFrogData });
     }
 
     public void BuyBird()
@@ -115,41 +85,76 @@ public class GameManager : MonoBehaviour
 
     public void BuyCow()
     {
-        Debug.Log("Cow Bought");
-        float cost = 5f;
-        if (coinCount >= cost)
-        {
-            coinCount -= cost;
-            Vector2 spawnPosition = new Vector2(Random.Range(-8f, 9f), Random.Range(-4f, 5f));
-            Animal animal = Instantiate(animalPrefab, spawnPosition, Quaternion.identity);
-
-            UnityEngine.Random.InitState(System.DateTime.Now.Millisecond);
-            int rarityWeight = UnityEngine.Random.Range(0, 101);
-            Debug.Log(rarityWeight);
-            if (rarityWeight >= 95)
-            {
-                animal.Initialize(spottedCowData);
-            }
-            else if (rarityWeight >= 80)
-            {
-                animal.Initialize(blackCowData);
-            }
-            else if (rarityWeight >= 50)
-            {
-                animal.Initialize(brownCowData);
-            }
-            else
-            {
-                animal.Initialize(whiteCowData);
-            }
-            ownedAnimals.Add(animal);
-            totalCPS += animal.data.coinsPerSecond;
-        }
+        BuyAnimal(3906250f, new AnimalData[] { whiteCowData, brownCowData, blackCowData, spottedCowData });
     }
-
     public void BuyAlpaca()
     {
         Debug.Log("Alpaca Bought");
     }
 
+    private void BuyAnimal(float cost, AnimalData[] variants)
+    {
+        if (coinCount >= cost)
+        {
+            Debug.Log("Animal Bought");
+            coinCount -= cost;
+            Vector2 spawnPosition = new Vector2(Random.Range(-8f, 9f), Random.Range(-4f, 5f));
+            Animal animal = Instantiate(animalPrefab, spawnPosition, Quaternion.identity);
+            animal.gameManager = this;
+            UnityEngine.Random.InitState(System.DateTime.Now.Millisecond);
+            int rarityWeight = UnityEngine.Random.Range(0, 101);
+            Debug.Log(rarityWeight);
+            if (rarityWeight >= 95)
+            {
+                animal.Initialize(variants[3]);
+            }
+            else if (rarityWeight >= 80)
+            {
+                animal.Initialize(variants[2]);
+            }
+            else if (rarityWeight >= 50)
+            {
+                animal.Initialize(variants[1]);
+            }
+            else
+            {
+                animal.Initialize(variants[0]);
+            }
+            ownedAnimals.Add(animal);
+            totalCPD += animal.data.coinsPerSecond;
+        }
+    }
+    public void SelectAnimal(Animal animal)
+    {
+        Animal selectedAnimal = animal;
+        menuContainer.SetActive(true);
+
+        // Clicking same animal = deselect
+        if (selectedAnimal == animal)
+        {
+            selectedAnimal = null;
+            menuContainer.SetActive(false);
+            return;
+        }
+
+        // Select new animal
+        selectedAnimal = animal;
+        menuContainer.SetActive(true);
+
+        UpdateAnimalPanel(animal);
+    }
+
+    private void UpdateAnimalPanel(Animal animal)
+    {
+        // updat UI text
+
+    }
+
+    public void SellAnimal(Animal animal)
+    {
+        ownedAnimals.Remove(animal); // this might be a problem later
+        totalCPD -= animal.data.coinsPerSecond;
+        coinCount += animal.data.sellPrice;
+        Destroy(animal.gameObject);
+    }
 }

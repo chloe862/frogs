@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalName: Green Frog
   animalSprite: {fileID: -5550135587650637582, guid: 11f774e6c9a546145801797513412927, type: 3}
-  coinsPerSecond: 0.025
-  sellPrice: 2.5
+  coinsPerSecond: 10
+  sellPrice: 10
   rarity: 1
   animalType: 0

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalName: Brown Cow
   animalSprite: {fileID: -6156274802597656792, guid: bb50b2a8c8cc67d49a4660692e50ca96, type: 3}
-  coinsPerSecond: 1.5
-  sellPrice: 0
+  coinsPerSecond: 3906250
+  sellPrice: 3906250
   rarity: 1
   animalType: 4

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalName: Brown Frog
   animalSprite: {fileID: -7772588062979293032, guid: ec9ecb9132b7ee042b0d4c5fb4314081, type: 3}
-  coinsPerSecond: 0.005
-  sellPrice: 0.5
+  coinsPerSecond: 0.5
+  sellPrice: 5
   rarity: 0
   animalType: 0

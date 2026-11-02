@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalName: Blue Frog
   animalSprite: {fileID: 8370740585441749563, guid: 39160d5c15724834a82038e7ae64d07f, type: 3}
-  coinsPerSecond: 0.05
-  sellPrice: 5
+  coinsPerSecond: 45
+  sellPrice: 15
   rarity: 2
   animalType: 0
