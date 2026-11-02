@@ -5,9 +5,27 @@ public class AnimalData : ScriptableObject
 {
     public string animalName;
     public Sprite animalSprite;
-
     public float coinsPerSecond;
-    public int purchaseCost;
+    public float sellPrice;
+    public Rarity rarity;
+    public AnimalType animalType;
 
-    public bool rare;
+
+    public enum AnimalType
+    {
+        Frog,
+        Bird,
+        Snake,
+        Turtle,
+        Fish
+    }
+
+    public enum Rarity
+    {
+        Common,
+        Rare,
+        Epic,
+        Legendary
+    }
+
 }

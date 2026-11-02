@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61b5dece096a84b459c2e6f81ddff6f4, type: 3}
-  m_Name: Pink Tree Frog
+  m_Name: GreenFrog
   m_EditorClassIdentifier: 
-  frogName: Pink Tree Frog
-  frogSprite: {fileID: 3775194573299024420, guid: 7dab0005e91a20f43aa6fdefe8649e39, type: 3}
-  coinsPerSecond: 3
-  purchaseCost: 2
-  rare: 0
+  animalName: Green Frog
+  animalSprite: {fileID: -5550135587650637582, guid: 11f774e6c9a546145801797513412927, type: 3}
+  coinsPerSecond: 0.025
+  sellPrice: 2.5
+  rarity: 1
+  animalType: 0

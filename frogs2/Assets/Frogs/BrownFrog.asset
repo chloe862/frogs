@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61b5dece096a84b459c2e6f81ddff6f4, type: 3}
-  m_Name: Tree Frog
+  m_Name: BrownFrog
   m_EditorClassIdentifier: 
-  frogName: Tree Frog
-  frogSprite: {fileID: -5550135587650637582, guid: 11f774e6c9a546145801797513412927, type: 3}
-  coinsPerSecond: 0.5
-  purchaseCost: 5
-  rare: 0
+  animalName: Brown Frog
+  animalSprite: {fileID: -7772588062979293032, guid: ec9ecb9132b7ee042b0d4c5fb4314081, type: 3}
+  coinsPerSecond: 0.005
+  sellPrice: 0.5
+  rarity: 0
+  animalType: 0

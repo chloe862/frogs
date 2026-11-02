@@ -2,20 +2,24 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using static UnityEngine.UI.Image;
 
 public class GameManager : MonoBehaviour
 {
     [Header("Animals")]
     public List<Animal> ownedAnimals = new List<Animal>();
     public Animal animalPrefab;
-    public AnimalData treeFrogData;
-    public AnimalData PoisonDartFrogData;
+    public AnimalData blueFrogData;
+    public AnimalData brownFrogData;
+    public AnimalData greenFrogData;
+    public AnimalData pinkFrogData;
 
     [Header("UI")]
     public TextMeshProUGUI coinCountText;
-    public float totalCPS = 1f;
-    private float coinCount = 0f;
-    private float timer = 0f;
+    public GameObject shopContainer;
+    public float totalCPS = 0f;
+    private float coinCount = 10f;
+    //private float timer = 0f;
 
 
     void Start()
@@ -26,30 +30,15 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        timer += Time.deltaTime;
-        if (timer >= 1f)
-        {
-            foreach (Animal animal in ownedAnimals)
-            {
-                totalCPS += animal.data.coinsPerSecond;
-            }
-            coinCount += totalCPS;
-            coinCountText.text = "$" + coinCount.ToString();
-
-            timer -= 1f;
-        }
+        coinCount += totalCPS * Time.deltaTime;
+        coinCountText.text = $"${coinCount:F2}";
     }
+
 
     public void OpenShop()
     {
         Debug.Log("Shop button pressed");
-
-        Vector2 spawnPosition = new Vector2(Random.Range(-8, 9), Random.Range(-4, 5));
-
-        Animal animal = Instantiate(animalPrefab, spawnPosition, Quaternion.identity);
-        animal.Initialize(treeFrogData);
-        ownedAnimals.Add(animal);
-        Debug.Log(ownedAnimals);
+        shopContainer.SetActive(!shopContainer.activeInHierarchy);
     }
 
     public void OpenFish()
@@ -69,7 +58,36 @@ public class GameManager : MonoBehaviour
 
     public void BuyFrog()
     {
+        Debug.Log("Frog Bought");
+        float cost = 1f;
+        if (coinCount >= cost)
+        {
+            coinCount -= cost;
+            Vector2 spawnPosition = new Vector2(Random.Range(-8f, 9f), Random.Range(-4f, 5f));
+            Animal animal = Instantiate(animalPrefab, spawnPosition, Quaternion.identity);
 
+            UnityEngine.Random.InitState(System.DateTime.Now.Millisecond);
+            int rarityWeight = UnityEngine.Random.Range(0, 101);
+            Debug.Log(rarityWeight);
+            if (rarityWeight >= 95)
+            {
+                animal.Initialize(pinkFrogData);
+            }
+            else if (rarityWeight >= 80)
+            {
+                animal.Initialize(blueFrogData);
+            }
+            else if (rarityWeight >= 50)
+            {
+                animal.Initialize(greenFrogData);
+            }
+            else
+            {
+                animal.Initialize(brownFrogData);
+            }
+                ownedAnimals.Add(animal);
+            totalCPS += animal.data.coinsPerSecond;
+        }
     }
 
     public void BuyBird()
