@@ -46,6 +46,10 @@ public class GameManager : MonoBehaviour
     public void OpenShop()
     {
         Debug.Log("Shop button pressed");
+        if (menuContainer.activeSelf)
+        {
+            menuContainer.SetActive(false);
+        }
         shopContainer.SetActive(!shopContainer.activeInHierarchy);
     }
 
@@ -127,7 +131,10 @@ public class GameManager : MonoBehaviour
     }
     public void SelectAnimal(Animal animal)
     {
-
+        if (shopContainer.activeSelf)
+        {
+            shopContainer.SetActive(false);
+        }
         // Clicking same animal = deselect
         if (selectedAnimal == animal)
         {
