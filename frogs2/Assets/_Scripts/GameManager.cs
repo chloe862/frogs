@@ -90,7 +90,8 @@ public class GameManager : MonoBehaviour
 
     public void BuyCow()
     {
-        BuyAnimal(3906250f, new AnimalData[] { whiteCowData, brownCowData, blackCowData, spottedCowData });
+        BuyAnimal(50f, new AnimalData[] { whiteCowData, brownCowData, blackCowData, spottedCowData });
+        // original cost 3906250f
     }
     public void BuyAlpaca()
     {
@@ -103,7 +104,7 @@ public class GameManager : MonoBehaviour
         {
             Debug.Log("Animal Bought");
             coinCount -= cost;
-            Vector2 spawnPosition = new Vector2(Random.Range(-8f, 9f), Random.Range(-4f, 5f));
+            Vector2 spawnPosition = new Vector2(Random.Range(-8f, 8f), Random.Range(-4f, 3f));
             Animal animal = Instantiate(animalPrefab, spawnPosition, Quaternion.identity);
             animal.gameManager = this;
             UnityEngine.Random.InitState(System.DateTime.Now.Millisecond);
@@ -131,24 +132,21 @@ public class GameManager : MonoBehaviour
     }
     public void SelectAnimal(Animal animal)
     {
-        if (shopContainer.activeSelf)
+        if (shopContainer.activeSelf is false)
         {
-            shopContainer.SetActive(false);
-        }
-        // Clicking same animal = deselect
-        if (selectedAnimal == animal)
-        {
-            selectedAnimal = null;
-            menuContainer.SetActive(false);
-            return;
-        }
+            if (selectedAnimal == animal)
+            {
+                selectedAnimal = null;
+                menuContainer.SetActive(false);
+                return;
+            }
 
-        // Select new animal
-        selectedAnimal = animal;
-        menuContainer.SetActive(true);
-        Debug.Log("Updated selected animal");
+            selectedAnimal = animal;
+            menuContainer.SetActive(true);
+            Debug.Log("Updated selected animal");
 
-        UpdateAnimalPanel(animal);
+            UpdateAnimalPanel(animal);
+        }
     }
 
     private void UpdateAnimalPanel(Animal animal)
